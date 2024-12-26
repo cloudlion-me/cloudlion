@@ -1,49 +1,70 @@
 # 新狮云客户端 🚀
 
-欢迎使用 **新狮云客户端**！这是我们为用户提供的一款高效便捷、跨平台的应用程序，支持 Android、Windows 和 macOS。
+**新狮云客户端** 是一款高效便捷、跨平台的应用程序，支持 Android、iPhone（通过 IPA 文件）、Windows 和 macOS，旨在为用户提供极致的连接服务体验。
 
 ---
 
-## 🌟 功能介绍
-- ⚡ **高效便捷**：快速操作，提升效率。
-- 🌐 **多平台支持**：随时随地连接服务。
-- 🎨 **简洁美观**：注重用户体验与设计。
+## 🌟 功能亮点
+
+- ⚡ **高效便捷**：快速操作，一键直达核心功能。
+- 🌐 **多平台支持**：Android、iPhone、Windows 和 macOS 随时无缝切换。
+- 🎨 **简洁美观**：注重流畅的用户界面设计与优化。
 
 ---
 
 ## 📥 下载地址
-点击下方链接下载适合您设备的版本：
-- [Android 版本](https://github.com/cloudlion-me/cloudlion/releases)
-- [Windows 版本](https://github.com/cloudlion-me/cloudlion/releases)
-- [macOS 版本](https://github.com/cloudlion-me/cloudlion/releases)
 
-> 📌 **提示**：安装包会根据版本更新，请前往 [Releases 页面](https://github.com/cloudlion-me/cloudlion/releases) 获取最新版本。
+点击下方链接下载对应设备的版本：
+
+- [📱 Android 版本](https://github.com/cloudlion-me/cloudlion/releases)
+- [🍎 iPhone IPA 文件](https://github.com/cloudlion-me/cloudlion/releases)
+- [💻 Windows 版本](https://github.com/cloudlion-me/cloudlion/releases)
+- [🖥️ macOS 版本](https://github.com/cloudlion-me/cloudlion/releases)
+
+> **提示**：请前往 [Releases 页面](https://github.com/cloudlion-me/cloudlion/releases) 获取最新版本及更新详情。
 
 ---
 
 ## 🛠️ 安装方法
+
 ### Android
-1. 下载 `.apk` 文件到您的设备。
-2. 点击安装包完成安装（请确保允许未知来源应用安装）。
+1. 前往 [Releases 页面](https://github.com/cloudlion-me/cloudlion/releases)，下载 `.apk` 文件到设备。
+2. 打开安装包，按照提示完成安装（如提示，请启用「允许未知来源」）。
+
+### iPhone
+1. 下载 `.ipa` 文件到电脑。
+2. 使用工具（如 AltStore 或 Cydia Impactor）将 `.ipa` 文件安装至您的设备。
+3. 按照安装工具的提示完成配置，即可使用。
 
 ### Windows
-1. 下载 `.exe` 文件。
-2. 双击安装包，根据提示完成安装。
+1. 下载最新的 `.exe` 文件。
+2. 双击安装包，根据向导完成安装。
 
 ### macOS
 1. 下载 `.dmg` 文件。
-2. 打开文件并拖动应用图标至应用程序文件夹。
+2. 打开文件，并拖动应用图标到「应用程序」文件夹。
 
 ---
 
-## 🌐 新狮云官网
-访问我们的官网了解更多信息 👉 [https://my.cloudlion.me](https://my.cloudlion.me)
+## 🌐 官方网站
+
+访问我们的官网，了解更多信息与支持 👉 [https://my.cloudlion.me](https://my.cloudlion.me)
 
 ---
 
-## 💡 问题反馈
-如果您在使用过程中遇到任何问题，欢迎通过以下方式提交反馈：
+## 💡 常见问题与反馈
+
+如果您在使用过程中遇到问题，请通过以下方式提交反馈：
+
 - 在 [Issues 页面](https://github.com/cloudlion-me/cloudlion/issues) 提交问题。
-- 或者通过 [官网](https://my.cloudlion.me) 联系我们。
+- 或访问 [官方帮助中心](https://my.cloudlion.me) 联系我们。
 
-感谢您的支持与使用！❤️
+---
+
+## 📜 许可证
+
+本软件基于 [MIT License](LICENSE) 开源，共建更好的服务体验！✨
+
+---
+
+感谢您的支持 ❤️ **新狮云客户端，让服务更高效！**
