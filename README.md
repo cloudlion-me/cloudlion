@@ -28,7 +28,7 @@
 ## 🛠️ 安装方法
 
 ### Android
-1. 前往 [Releases 页面](https://github.com/cloudlion-me/cloudlion/releases)，下载 `.apk` 文件到设备。
+1. 下载 `.apk` 文件到设备。
 2. 打开安装包，按照提示完成安装（如提示，请启用「允许未知来源」）。
 
 ### iPhone
