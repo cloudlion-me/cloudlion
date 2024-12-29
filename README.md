@@ -17,9 +17,9 @@
 点击下方链接下载对应设备的版本：
 
 - [📱 Android 版本](https://github.com/cloudlion-me/cloudlion/releases)
-- 🍎 iPhone IPA 文件：**敬请期待**
+- [🍎 iPhone IPA 文件](https://github.com/cloudlion-me/cloudlion/releases)
 - [💻 Windows 版本](https://github.com/cloudlion-me/cloudlion/releases)
-- 🖥️ macOS 版本：**敬请期待**
+- [🖥️ macOS 版本](https://github.com/cloudlion-me/cloudlion/releases)
 
 > **提示**：请前往 [Releases 页面](https://github.com/cloudlion-me/cloudlion/releases) 获取最新版本及更新详情。
 
